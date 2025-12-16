@@ -1,1 +1,6 @@
-Hola mundo
+<<<<<<< HEAD
+tu versión
+=======
+otra versión
+>>>>>>> rama
+
